@@ -10,6 +10,11 @@
 I love building scalable web applications, solving problems, and learning modern technologies.
 </p>
 
+### 🌐 Portfolio Website
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -21,6 +26,19 @@ I love building scalable web applications, solving problems, and learning modern
 - 🚀 Building real-world projects and improving DSA skills
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Fun Fact: I enjoy coding and solving challenges
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Link |
+|----------|------------|------|
+| 🗳️ **Online Voting System** | Spring Boot, React.js, MySQL, JWT | [View Project](YOUR_PROJECT_LINK) |
+| 🌐 **Personal Portfolio Website** | React.js, HTML, CSS, JavaScript | [Visit Portfolio](YOUR_PORTFOLIO_LINK) |
+
+</div>
 
 ---
 
@@ -47,19 +65,6 @@ I love building scalable web applications, solving problems, and learning modern
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"/>
-
-</div>
-
----
-
- # 🚀 Projects
-
-<div align="center">
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| 🗳️ Online Voting System | Full Stack Voting Application using Spring Boot, React.js, MySQL, and JWT Authentication | [View Project](YOUR_PROJECT_LINK) |
-| 🌐 Personal Portfolio | Responsive Developer Portfolio built with React.js showcasing skills, projects, and contact details | [View Portfolio](YOUR_PORTFOLIO_LINK) |
 
 </div>
 

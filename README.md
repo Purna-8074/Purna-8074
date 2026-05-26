@@ -52,53 +52,14 @@ I love building scalable web applications, solving problems, and learning modern
 
 ---
 
-# 🚀 Projects
-
-## 🗳️ Online Voting System
-- Full Stack Web Application
-- Built using **Spring Boot, React.js, MySQL, JWT**
-- Features:
-  - Secure Login Authentication
-  - Admin & User Dashboard
-  - Online Voting Functionality
-  - Real-time Vote Counting
-
-🔗 Project Link:  
-https://github.com/Purna-8074
-
----
-
-## 🌐 Personal Portfolio Website
-- Responsive Portfolio Website
-- Built using **React.js, HTML, CSS**
-- Features:
-  - Smooth Scrolling
-  - Modern UI Design
-  - Project Showcase
-  - Contact Section
-
-🔗 Portfolio Link:  
-https://github.com/Purna-8074
-
----
-
-# 📂 Portfolio
+ # 🚀 Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Purna-8074&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-8074&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purna-8074&theme=tokyonight"/>
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| 🗳️ Online Voting System | Full Stack Voting Application using Spring Boot, React.js, MySQL, and JWT Authentication | [View Project](YOUR_PROJECT_LINK) |
+| 🌐 Personal Portfolio | Responsive Developer Portfolio built with React.js showcasing skills, projects, and contact details | [View Portfolio](YOUR_PORTFOLIO_LINK) |
 
 </div>
 

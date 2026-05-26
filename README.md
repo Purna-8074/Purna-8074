@@ -42,17 +42,25 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 <div align="center">
 
-### 🗳️ Online Voting System
-Full Stack secure voting platform with authentication and admin management.
+## 🗳️ Online Voting System
 
-🔗 **Project Link:**  
-[View Project](https://votesecure-psi.vercel.app/)
+<img src="https://img.shields.io/badge/Full%20Stack-Project-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Backend-success?style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<br><br>
+
+✨ A modern and secure online voting platform designed for seamless digital elections with authentication, role-based access, and real-time vote management.
 
 <br>
+
+<a href="https://votesecure-psi.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 

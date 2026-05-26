@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/097ec46d-03aa-4d46-99a2-57c7172db173" width="220" style="border-radius:50%" />
+<img src="https://github.com/user-attachments/assets/097ec46d-03aa-4d46-99a2-57c7172db173" width="400" style="border-radius:50%" />
 
 # Hi 👋, I'm Raj
 
-### 🚀 Full Stack Developer | Java | Spring Boot | React.js
+### 🚀 Full Stack Developer 
 
 <p>
 Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
@@ -12,8 +12,8 @@ Passionate about building scalable web applications, solving real-world problems
 
 <br>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐_Portfolio_Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="[YOUR_PORTFOLIO_LINK](https://gopisettypurnarajesh.netlify.app/)">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Purna-8074">
@@ -50,15 +50,9 @@ Passionate about building scalable web applications, solving real-world problems
 Full Stack secure voting platform with authentication and admin management.
 
 🔗 **Project Link:**  
-[View Project](YOUR_PROJECT_LINK)
+[View Project](https://votesecure-psi.vercel.app/)
 
 <br>
-
-### 🌐 Personal Portfolio Website
-Modern responsive developer portfolio showcasing projects, skills, and achievements.
-
-🔗 **Portfolio Link:**  
-[Visit Portfolio](YOUR_PORTFOLIO_LINK)
 
 </div>
 
@@ -90,15 +84,7 @@ Modern responsive developer portfolio showcasing projects, skills, and achieveme
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Purna-8074&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Purna-8074&theme=tokyonight&hide_border=true"/>
-
-</div>
+ 
 
 ---
 

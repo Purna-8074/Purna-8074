@@ -1,31 +1,44 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/097ec46d-03aa-4d46-99a2-57c7172db173" width="400" />
+<img src="https://github.com/user-attachments/assets/097ec46d-03aa-4d46-99a2-57c7172db173" width="220" style="border-radius:50%" />
 
 # Hi 👋, I'm Raj
 
-### A Passionate Full Stack Developer from India 🇮🇳
+### 🚀 Full Stack Developer | Java | Spring Boot | React.js
 
 <p>
-I love building scalable web applications, solving problems, and learning modern technologies.
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
-### 🌐 Portfolio Website
+<br>
+
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio_Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Purna-8074">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gopisetty-purna-rajesh-ba317b373/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:2300031613cseh1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 🌱 Currently learning **Advanced Full Stack Development**
-- 💻 Skilled in **Java, Spring Boot, React.js, MySQL**
-- 🚀 Building real-world projects and improving DSA skills
-- 🎯 Goal: Become a Professional Software Engineer
-- ⚡ Fun Fact: I enjoy coding and solving challenges
+✨ Full Stack Developer passionate about creating responsive and scalable applications  
+💻 Skilled in Java, Spring Boot, React.js, MySQL, and REST APIs  
+🌱 Currently improving DSA, backend development, and system design skills  
+🚀 Focused on building real-world projects and industry-ready applications  
+🎯 Aspiring Software Engineer seeking opportunities to contribute and grow  
 
 ---
 
@@ -33,58 +46,57 @@ I love building scalable web applications, solving problems, and learning modern
 
 <div align="center">
 
-| Project | Tech Stack | Link |
-|----------|------------|------|
-| 🗳️ **Online Voting System** | Spring Boot, React.js, MySQL, JWT | [View Project](YOUR_PROJECT_LINK) |
-| 🌐 **Personal Portfolio Website** | React.js, HTML, CSS, JavaScript | [Visit Portfolio](YOUR_PORTFOLIO_LINK) |
+### 🗳️ Online Voting System
+Full Stack secure voting platform with authentication and admin management.
+
+🔗 **Project Link:**  
+[View Project](YOUR_PROJECT_LINK)
+
+<br>
+
+### 🌐 Personal Portfolio Website
+Modern responsive developer portfolio showcasing projects, skills, and achievements.
+
+🔗 **Portfolio Link:**  
+[Visit Portfolio](YOUR_PORTFOLIO_LINK)
 
 </div>
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60" height="60"/>
 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 📈 GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gopisetty-purna-rajesh-ba317b373/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Purna-8074&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="mailto:2300031613cseh1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Purna-8074">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Purna-8074&theme=tokyonight&hide_border=true"/>
 
 </div>
 

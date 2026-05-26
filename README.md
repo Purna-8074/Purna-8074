@@ -52,15 +52,67 @@ I love building scalable web applications, solving problems, and learning modern
 
 ---
 
+# 🚀 Projects
+
+## 🗳️ Online Voting System
+- Full Stack Web Application
+- Built using **Spring Boot, React.js, MySQL, JWT**
+- Features:
+  - Secure Login Authentication
+  - Admin & User Dashboard
+  - Online Voting Functionality
+  - Real-time Vote Counting
+
+🔗 Project Link:  
+https://github.com/Purna-8074
+
+---
+
+## 🌐 Personal Portfolio Website
+- Responsive Portfolio Website
+- Built using **React.js, HTML, CSS**
+- Features:
+  - Smooth Scrolling
+  - Modern UI Design
+  - Project Showcase
+  - Contact Section
+
+🔗 Portfolio Link:  
+https://github.com/Purna-8074
+
+---
+
+# 📂 Portfolio
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Purna-8074&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-8074&layout=compact&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purna-8074&theme=tokyonight"/>
+
+</div>
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/gopisetty-purna-rajesh-ba317b373/)">
+<a href="https://www.linkedin.com/in/gopisetty-purna-rajesh-ba317b373/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:2300031613cseh1@gmail.com@gmail.com">
+<a href="mailto:2300031613cseh1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
